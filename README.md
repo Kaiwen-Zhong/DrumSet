@@ -1,4 +1,4 @@
-# Upbeat1
+# Upbeat
 
 android drum app using gyroscope
 
